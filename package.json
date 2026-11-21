@@ -25,12 +25,12 @@
     "emailjs-com": "^3.2.0",
     "pinia": "^2.1.7",
     "tailwindcss": "^4.1.11",
-    "vue": "^3.4.29",
+    "vue": "^3.5.46",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
     "@pinia/testing": "^0.1.3",
-    "@playwright/test": "^1.44.1",
+    "@playwright/test": "^1.65.1",
     "@rushstack/eslint-patch": "^1.12.0",
     "@tailwindcss/vite": "^4.1.11",
     "@tsconfig/node20": "^20.1.4",
@@ -48,7 +48,7 @@
     "eslint": "^9.31.0",
     "eslint-plugin-playwright": "^1.6.2",
     "eslint-plugin-vue": "~10.3.0",
-    "happy-dom": "^17.4.7",
+    "happy-dom": "^21.0.4",
     "jiti": "^2.4.2",
     "jsdom": "^24.1.1",
     "npm-run-all2": "^8.0.4",
@@ -56,9 +56,9 @@
     "prettier-plugin-tailwindcss": "^0.6.14",
     "ts-loader": "^9.5.1",
     "typescript": "~5.8.0",
-    "vite": "^7.0.6",
+    "vite": "^7.3.8",
     "vite-plugin-vue-devtools": "^8.0.0",
-    "vitest": "^3.1.4",
+    "vitest": "^5.1.1",
     "vue-cli-service": "^5.0.10",
     "vue-tsc": "^3.0.4"
   }
